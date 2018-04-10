@@ -1,0 +1,33 @@
+<admin>
+<ADMIN10000> 
+100000={启动更新="真"};
+100001={更新方式="网盘下载"};
+100002={最新版本="1.04"};
+100003={会员开关="假"};
+100004={更新说明="更新说明：|1.请你一定要更新|2.修复错误代码|3.实体卡到货|4.修复"};
+100020={公告内容="欢迎使用爱看影院   真诚的到造最完美的影视软件  招收代理"};
+100080={QQ="2927506512",WX="无",URL="https://pan.lanzou.com/i0o3xch",URL2="https://fir.im/q2mv"};
+</ADMIN10000>
+
+<ADMIN20000>
+100000={启动更新="真"};
+100001={更新方式="网盘下载"};
+100002={最新版本="1.04"};
+100003={会员开关="假"};
+100004={更新说明="更新说明：|1.请你一定要更新|2.修复错误代码|3.实体卡到货|4.修复"};
+100020={公告内容="欢迎使用爱看影院   真诚的到造最完美的影视软件  招收代理"};
+100080={QQ="无",WX="无",URL="https://pan.lanzou.com/i0o3xch",URL2="https://fir.im/q2mv"};
+</ADMIN20000>
+
+<ADMIN40000>
+100001={agent="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/agent.txt"};
+100002={feedback="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/feedback.txt"};
+100003={key="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/key.txt"};
+100004={jxapi="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/jxapi.txt"};
+100005={cctv="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/cctv.txt"};
+100006={buygoods="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/buygoods.txt"};
+100007={poster="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/poster.txt"};
+100008={UserUp="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/UserUp.txt"};
+400000={@UserName="MM10000",@RechargeApi="http://w.eydata.net/e1815f1a4ec0c8ad"};
+</ADMIN40000>
+</admin>
