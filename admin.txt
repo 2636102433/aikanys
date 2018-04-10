@@ -24,7 +24,7 @@
 100002={feedback="https://raw.githubusercontent.com/2636102433/aikanys/master/feedback.txt"};
 100003={key="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/key.txt"};
 100004={jxapi="https://raw.githubusercontent.com/2636102433/aikanys/master/jxapi.txt"};
-100005={cctv="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/cctv.txt"};
+100005={cctv="https://raw.githubusercontent.com/2636102433/aikanys/master/cctv.txt"};
 100006={buygoods="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/buygoods.txt"};
 100007={poster="https://raw.githubusercontent.com/2636102433/aikanys/master/poster.txt"};
 100008={UserUp="https://gitee.com/dongbaba/AiKanYingShi2/raw/master/UserUp.txt"};
