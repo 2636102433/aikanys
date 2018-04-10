@@ -2,7 +2,7 @@
 
 iqiyi={
 @01="http://www.dao0305.cn/vip/yddfg/?url="
-@01="http://heiye66666.two3.cn/index.php?url="
+@01="http://jx.618g.com/?url="
 @01="http://api.baiyug.cn/vip/index.php?url="
 @01="http://www.52jiexi.com/tong.php?url="
 @01="http://www.uj99.cn/000o/?url="
@@ -14,7 +14,7 @@ iqiyi={
 
 qq={
 @01="http://www.dao0305.cn/vip/yddfg/?url="
-@01="http://heiye66666.two3.cn/index.php?url="
+@01="http://jx.618g.com/?url="
 @01="http://api.baiyug.cn/vip/index.php?url="
 @01="https://47ksvip.duapp.com/vip/?url="
 @01="http://vip.thxcw.com/index.php?url="
@@ -25,7 +25,7 @@ qq={
 };
 
 mgtv={
-@01="http://heiye66666.two3.cn/index.php?url="
+@01="http://jx.618g.com/?url="
 @01="http://api.baiyug.cn/vip/index.php?url="
 @01="http://jqaaa.com/jx.php?url="
 @01="http://www.1717yun.com/jx/ty.php?url="
@@ -37,7 +37,7 @@ mgtv={
 };
 
 letv={
-@01="http://heiye66666.two3.cn/index.php?url="
+@01="http://jx.618g.com/?url="
 @01="http://www.dao0305.cn/vip/yddfg/?url="
 @01="http://api.baiyug.cn/vip/index.php?url="
 @01="http://www.wmxz.wang/video.php?url="
@@ -50,7 +50,7 @@ letv={
 
 youku={
 @01="http://www.dao0305.cn/vip/yddfg/?url="
-@01="http://heiye66666.two3.cn/index.php?url="
+@01="http://jx.618g.com/?url="
 @01="http://api.baiyug.cn/vip/index.php?url="
 @01="http://jqaaa.com/jx.php?url="
 @01="http://www.uj99.cn/000o/?url="
@@ -61,7 +61,7 @@ youku={
 };
 
 sohu={
-@01="http://heiye66666.two3.cn/index.php?url="
+@01="http://jx.618g.com/?url="
 @01="http://jqaaa.com/jx.php?url="
 @01="http://www.dao0305.cn/vip/yddfg/?url="
 @01="http://api.baiyug.cn/vip/index.php?url="
