@@ -1,6 +1,6 @@
 <poster>
 txt01={
-@01="方式=[1],图片=[https://0x9.me/D4yXl],标题=[爱看影视],地址=[http://player.youku.com/embed/XMzM5MDY2NDI5Ng==]"
+@01="方式=[1],图片=[http://t.cn/Rm6SSe4],标题=[爱看影视],地址=[http://player.youku.com/embed/XMzM5MDY2NDI5Ng==]"
 @01="方式=[1],图片=[https://0x9.me/QWas3],标题=[使用教程],地址=[http://player.youku.com/embed/XMzM5MDY2NDI5Ng==]"
 @01="方式=[1],图片=[https://0x9.me/wAIJi],标题=[招收代理],地址=[https://fir.im/q2mv]"
 @01="方式=[1],图片=[https://0x9.me/L1ySf],标题=[爱看影视1],地址=[https://fir.im/q2mv]"
